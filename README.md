@@ -10,7 +10,7 @@ A new Flutter project.
 
 > Stripe Account Image
 
-![Stripe Payment history](https://user-images.githubusercontent.com/33688458/85929460-89a09e00-b8ce-11ea-8806-20a73d9fb76f.png){: height="75px" width="300px" style="float:left; padding-right:10px" }
+![Stripe Payment history](https://user-images.githubusercontent.com/33688458/85929460-89a09e00-b8ce-11ea-8806-20a73d9fb76f.png){:height="700px" width="400px"}
 
 
 ## Getting Started
