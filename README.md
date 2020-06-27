@@ -1,4 +1,4 @@
-# stripepayment
+# stripe-Payment with Flutter
 
 A new Flutter project.
 
