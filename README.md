@@ -4,13 +4,13 @@ A new Flutter project.
 
 > App Images
 
-![new card payment](https://user-images.githubusercontent.com/33688458/85929454-7d1c4580-b8ce-11ea-928f-0a94f51a5a95.PNG)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;
+![new card payment](https://user-images.githubusercontent.com/33688458/85929454-7d1c4580-b8ce-11ea-928f-0a94f51a5a95.PNG)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![payment with exsisting card](https://user-images.githubusercontent.com/33688458/85929458-84dbea00-b8ce-11ea-9b65-ab488699dab3.PNG)
 
 
 > Stripe Account Image
 
-![Stripe Payment history](https://user-images.githubusercontent.com/33688458/85929460-89a09e00-b8ce-11ea-8806-20a73d9fb76f.png)
+![Stripe Payment history](https://user-images.githubusercontent.com/33688458/85929460-89a09e00-b8ce-11ea-8806-20a73d9fb76f.png){: height="75px" width="300px" style="float:left; padding-right:10px" }
 
 
 ## Getting Started
