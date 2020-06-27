@@ -1,6 +1,5 @@
 # stripe-Payment with Flutter
 
-A new Flutter project.
 
 > App Images
 
